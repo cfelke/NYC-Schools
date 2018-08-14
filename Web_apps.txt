@@ -1,0 +1,25 @@
+_web applications with Soma, August 14, 2018
+
+Ruby on Rails
+Ruby = language
+on Rails =
+
+library = some code someone wrote that might be usefu
+framework = really big library?
+
+CRUD websites
+Create
+Read
+Update
+Delete
+
+WE as journalists care about reading, the rest is not our cup of tea;
+
+Python - Django
+Flask
+
+ORM = Object Relations Mapper (?)
+It basically means "We hate writing SQL so we wrote code to do this for us"
+
+SQLAlchemy
+Peewee
